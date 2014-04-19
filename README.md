@@ -1,14 +1,14 @@
-# elastic-beanstalk-guestbook
+# Elastic Beanstalk Guestbook
 
-A Clojure library designed to ... well, that part is up to you.
+An example showing how to deploy a simple clojure application on elastic
+beanstalk.
 
-## Usage
+## Requirements
 
-FIXME
+* leinengen <http://leiningen.org>
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Jordan Focht
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License.
